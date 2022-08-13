@@ -16,5 +16,6 @@ export default defineUserConfig({
   theme: localTheme({
     // default theme options
     logo: 'images/logo.png',
+    navbar: false,
   }),
 })
