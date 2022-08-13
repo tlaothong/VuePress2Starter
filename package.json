@@ -1,0 +1,24 @@
+{
+  "name": "vuepress2starter",
+  "version": "1.0.0",
+  "description": "The Starter template setting up the VuePress2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlaothong/VuePress2Starter.git"
+  },
+  "author": "Teerachai Laothong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlaothong/VuePress2Starter/issues"
+  },
+  "homepage": "https://github.com/tlaothong/VuePress2Starter#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.49"
+  }
+}
