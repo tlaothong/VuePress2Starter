@@ -8,5 +8,6 @@ import { localTheme } from './theme'
 export default defineUserConfig({
   theme: localTheme({
     // default theme options
+    logo: 'images/logo.png',
   }),
 })
