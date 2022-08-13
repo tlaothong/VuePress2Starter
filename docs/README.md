@@ -1,3 +1,7 @@
+---
+home: true
+---
+
 # Welcome to My Content
 ## The starter website
 
