@@ -352,3 +352,4 @@ MigrationBackup/
 # For VuePress2
 .[Tt]emp/
 .[Cc]ache/
+docs/.vuepress/dist/
