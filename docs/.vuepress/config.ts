@@ -6,6 +6,13 @@ import { defineUserConfig } from 'vuepress'
 import { localTheme } from './theme'
 
 export default defineUserConfig({
+  locales: {
+    '/': {
+      lang: 'th-TH',
+      title: 'VuePress2 Starter',
+      description: 'The Starter website for VuePress2',
+    }
+  },
   theme: localTheme({
     // default theme options
     logo: 'images/logo.png',
